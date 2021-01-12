@@ -1,0 +1,10 @@
+Introduction/Business Problem:
+Users often want to find disparate things in a common area: run to the post office and pick up food at the same time, 
+get several different types of food in a single trip, etc. This is a personal pain point for me: I want to find what 
+burger places are around a Raising Cane’s, and with the changing zooms and recentering, trying to remember where one 
+is while running the other search is frustrating. Users need a way to find “clusters” of target options with 
+their particular targets. 
+
+Data: 
+I will use inputs from a user (mock, since I have no idea how to allow inputs in a Jupyter notebook) of start 
+point (zip or address). I will get data from Four square regarding venues in the target category, then show the clusters on a map. 
